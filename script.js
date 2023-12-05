@@ -1,1 +1,1 @@
-const key = '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';
+const key = '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';
